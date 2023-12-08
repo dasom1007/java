@@ -17,7 +17,9 @@ public class TypeCastingEx1 {
 		
 		char ch = 'a';
 		int num3 = ch;
-		System.out.println(num3);
+		System.out.println(num3); //'a'의 아스키코드 닶인 97이 num3에 저장
+		
+		
 		
 	}
 }
