@@ -43,12 +43,7 @@ public class TestEx6 {
 			System.out.println(operator + "는(은) 산술 연산자가 아닙니다.");
 		}
 		
-		
-		
-		
-		
-		
-		
+
 		
 		scan.close();
 
